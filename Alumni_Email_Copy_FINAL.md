@@ -19,29 +19,27 @@ Hi {{firstName}},
 
 We both came through the UCT MBA. I finished in 2016.
 
-Systems thinking stayed with me: when the website, marketing and team say
-different things, customers notice.
+Systems thinking stayed with me: when the website, marketing and team say different things, customers notice.
 
-At Outlook Orange, my brand consultancy, we fix that:
+My brand and marketing consultancy, Outlook Orange, fixes that:
+1. Diagnostic: where the brand stands
+2. Workshop: leadership agrees what you stand for
+3. Blueprint: guidelines everything else follows
+4. Build: website, campaigns, Meta and Google
 
-1. Diagnostic: where the brand stands today
-2. Workshop: your leadership agrees what you stand for
-3. Blueprint: what your website, marketing and team work from
-
-Your marketing budget stops pulling in different directions.
+One story everywhere, and less wasted spend.
 
 Would you be open to a short call to see if this fits {{companyName}}?
 
 Best,
 Dylan
 
-PS: If a call feels early, I can send our free 10-question brand audit instead.
-It takes ten minutes and shows where the brand stands.
+PS: If a call feels early, I can send our free 10-question brand audit instead. It takes ten minutes and shows where the brand stands.
 ```
 
 ---
 
-## Email 1 — Variant B · Strategy before the spend · 88 words
+## Email 1 — Variant B · Strategy before the spend · 89 words
 
 **Subject:** `{Fellow UCT alum|Strategy before the spend|UCT alum here}`
 
@@ -50,13 +48,13 @@ Hello {{firstName}},
 
 We are both UCT alumni. I did my MBA in 2016.
 
-Companies often pay for websites and ads before agreeing what they stand for.
+Companies buy websites and ads before agreeing the strategy behind them.
 
-My brand consultancy, Outlook Orange, builds on a solid strategy from the outset:
-
-1. Diagnostic: where the brand stands today
-2. Workshop: your leadership agrees what you stand for
-3. Blueprint: what your website, marketing and team work from
+My brand and marketing consultancy, Outlook Orange, builds on a solid strategy from the outset:
+1. Diagnostic: where the brand stands
+2. Workshop: leadership agrees what you stand for
+3. Blueprint: guidelines everything else follows
+4. Build: website, campaigns, Meta and Google
 
 The spend then has a purpose you can measure.
 
@@ -65,40 +63,36 @@ Would you be open to a short call to see if this fits {{companyName}}?
 Best,
 Dylan
 
-PS: If a call feels early, I can send our free 10-question brand audit instead.
-It takes ten minutes and shows where the brand stands.
+PS: If a call feels early, I can send our free 10-question brand audit instead. It takes ten minutes and shows where the brand stands.
 ```
 
 ---
 
-## Email 1 — Variant C · AI and what still needs a person · 88 words
+## Email 1 — Variant C · AI and what still needs a person · 89 words
 
 **Subject:** `{UCT MBA 2016|What AI still cannot decide|UCT alum, quick thought}`
 
 ```
 Hello {{firstName}},
 
-We both studied at UCT. After my 2016 MBA I founded Outlook Orange, a brand
-consultancy.
+We both studied at UCT. I did my MBA in 2016.
 
-AI comes up in every alumni chat. It handles research, but cannot agree what a
-company stands for.
+AI comes up in every alumni chat. It handles research, but your vision and essence still come from leadership.
 
-That part we do with you:
+My brand and marketing consultancy, Outlook Orange, starts there:
+1. Diagnostic: where the brand stands
+2. Workshop: leadership agrees what you stand for
+3. Blueprint: guidelines everything else follows
+4. Build: website, campaigns, Meta and Google
 
-1. Diagnostic: where the brand stands today
-2. Workshop: your leadership agrees what you stand for
-3. Blueprint: what your team, agencies and AI tools work from
-
-Everything then tells one story.
+You sound like yourselves, not everyone else.
 
 Would you be open to a short call to see if this fits {{companyName}}?
 
 Best,
 Dylan
 
-PS: If a call feels early, I can send our free 10-question brand audit instead.
-It takes ten minutes and shows where the brand stands.
+PS: If a call feels early, I can send our free 10-question brand audit instead. It takes ten minutes and shows where the brand stands.
 ```
 
 ---
@@ -174,12 +168,13 @@ P.S. I will not keep following up. If it comes up later, you know where I am.
 | Source | Ask | Where it lands |
 |---|---|---|
 | Antoine | "Not clear what Outlook Orange provides" | Named in E1 line 3 of every variant: "Outlook Orange, my brand consultancy" |
-| Antoine | Concrete services perimeter / bullets / clear process | The three numbered lines: Diagnostic → Workshop → Blueprint (the deck's own 3-step engagement, in plain words) |
-| Antoine | **WHAT IS THE OUTPUT?** | Bullet 3 names the artefact and who uses it. E2 shows a real one: the Power Fashion booklet |
+| Antoine | Concrete services perimeter / bullets / clear process | Four numbered lines: Diagnostic → Workshop → Blueprint → Build. Step 4 names the execution Antoine asked about on 16/09 ("what exactly do you do on Shopify, Meta or Google?") |
+| Antoine | **WHAT IS THE OUTPUT?** | Bullet 3 names the artefact, bullet 4 what gets built from it. E2 shows a real one: the Power Fashion booklet |
 | Antoine | **WHAT FOR?** | One payoff line per E1 (budget stops pulling apart / spend you can measure / everything tells one story). E3 carries the ego payoff: world-leading standing, credited to the brand work |
 | Antoine | "Where is the 10-question audit CTA?" | PS on all three E1 variants, primary CTA in E2, held open in E4 |
 | Bonita | Plain language, no jargon | No architecture, DNA, alignment, onlyness, synergy, ecosystem. Lint run clean |
-| Bonita | Her own words kept | "solid strategy from the outset" (B) and "vision" (E2) used verbatim |
+| Bonita | Lead with what her clients understand (websites, e-commerce, Meta and Google) | Bullet 4, placed after the blueprint so the inside-out order Dylan insisted on is preserved |
+| Bonita | Her own words kept | "brand and marketing consultancy" (her north-star sentence, now in all three variants), "solid strategy from the outset" (B), "vision and essence" (C), "vision" (E2) |
 | Bonita | No speed claims | Antoine's "faster decisions" in Variant C removed |
 | Bonita | Never hedge what OO does | No try/help with/hope to anywhere |
 | Stephanie | Shorter subjects | Longest is four words; no `{{companyName}}` in any subject |
@@ -192,16 +187,16 @@ P.S. I will not keep following up. If it comes up later, you know where I am.
 
 Each email moves in one chain, no jumps:
 
-- **A:** MBA → what stayed with me → the mismatch customers notice → we fix that → the three steps → so the budget stops splitting → call
-- **B:** MBA → people spend before deciding → we go the other way round → the three steps → so the spend is measurable → call
-- **C:** MBA and founding → AI does research but cannot decide → that part we do → the three steps → so everything tells one story → call
+- **A:** MBA → systems thinking stayed with me → things say different things, customers notice → "fixes that" picks up the mismatch → four steps → one story, less waste → call
+- **B:** MBA → companies buy before agreeing the strategy → "builds on a solid strategy" picks up the same word → four steps → the spend is measurable → call
+- **C:** MBA → AI does research, vision and essence come from leadership → "starts there" points at vision and essence → four steps → you sound like yourselves → call
 - **E2:** "example of what I mean" → the target → what we made → what it changed → audit offer
 - **E3:** "one more example" → didn't know the direction → we set it → the outcome → most clients arrive the same way → if that's you, call
 - **E4:** last note → no pressure → but if it's on your list → here's what half an hour gives you → audit still open
 
 ## Open items before send
 
-1. **Nuvo outcome claim.** "Among the world's leading rubber businesses, and credit the brand work for it" comes from Bonita on the 17/08 call. Needs her or Dylan's sign-off in writing before it goes to cold prospects.
+1. **Nuvo outcome claim** — approved by you, kept as written.
 2. **The `[X]` in Antoine's E2** ("not the [X] it was designed for") is not recorded anywhere. Rewritten so no unverified number is needed.
-3. **Lemlist allows two variants, this is three.** If the limit holds, cut B: A and C both come from what Dylan said his cohort actually talks about, B does not.
+3. **Three variants retained** — you are handling the Lemlist side.
 4. **Audit mechanics confirmed** (Dylan, 17/08): he built it, the prospect answers ten questions, gets a result, then a conversation. The copy says "I can send it", so no link is needed and nothing is overpromised.

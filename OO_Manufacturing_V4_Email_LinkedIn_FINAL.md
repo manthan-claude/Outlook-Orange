@@ -76,13 +76,13 @@ Bonita
 
 {{firstName}},
 
-One more thought, and it's half a confession.
+One more thought — and it's the one most agencies won't bring up.
 
 You've probably had a dozen emails like mine this week, and most of them weren't written by a person. Brand work has gone the same way. It comes back fast and it looks tidy, but it sounds like everyone else in the category.
 
-We use AI too, for the admin and the speed of it. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
+We use AI too, for the research and the repetitive work. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
 
-If that sounds like something {{companyName}} needs, would you be open to a quick call?
+If that matters at {{companyName}}, I'm happy to send you the brand audit — or we can jump straight to a call if you'd prefer.
 
 Bonita
 
@@ -118,7 +118,7 @@ P.S. I won't keep following up. If it comes up later, you know where I am.
 |---|---|---|
 | E1 | Call + brand audit P.S. | Full offer — here's what we do, here's the ask |
 | E2 | Brand audit only | De-escalation — silence means lower the barrier |
-| E3 | Conditional call | Re-escalation — the AI angle hooks a different type of buyer |
+| E3 | Brand audit + call option | Re-escalation — the AI angle earns the right to offer both paths |
 | E4 | Half hour + detached value + close | Final — named duration, value even if they say no, clean exit |
 
 ---
@@ -199,13 +199,13 @@ Bonita
 
 {{firstName}},
 
-One more thought, and it's half a confession.
+One more thought — and it's the one most agencies won't bring up.
 
 You've probably had a dozen messages like mine this week, and most of them weren't written by a person. Brand work has gone the same way. It comes back fast and it looks tidy, but it sounds like everyone else in the category.
 
-We use AI too, for the admin and the speed of it. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
+We use AI too, for the research and the repetitive work. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
 
-If that sounds like something {{companyName}} needs, would you be open to a quick call?
+If that matters at {{companyName}}, I'm happy to send you the brand audit — or we can jump straight to a call if you'd prefer.
 
 Bonita
 
@@ -233,7 +233,7 @@ Bonita
 |---|---|---|
 | LI1 | Open question | Invite the conversation — "What does the picture look like?" |
 | LI2 | Soft CTA | Lower barrier on LinkedIn — "Does any of that sound familiar?" |
-| LI3 | Conditional call | The AI angle earns the right to ask for more |
+| LI3 | Brand audit + call option | The AI angle earns the right to offer both paths |
 | LI4 | Dual option + close | Brand audit or half hour — two clear paths, then done |
 
 ---
@@ -264,7 +264,7 @@ Bonita
 | **Opener** | Direct, gets to it | Slightly warmer, "I'll keep this short" |
 | **Length** | Longer, includes P.S. lines | Shorter, no P.S. on early messages |
 | **Proof (E2/LI2)** | Full NUVO narrative with opinion | Condensed NUVO, bridges to "most clients arrive the same way" |
-| **E3/LI3** | AI confession, identical | AI confession, "messages" instead of "emails" |
+| **E3/LI3** | AI differentiator, identical | AI differentiator, "messages" instead of "emails" |
 | **Closer** | Half hour + detached value + P.S. close | Dual option (audit or call) in one paragraph |
 | **Sign-off** | "Bonita" on every email | "Bonita" on every message |
 

@@ -42,7 +42,7 @@ Worth a short conversation to see if this is relevant for {{companyName}}?
 
 Bonita
 
-P.S. If a call feels premature, I can send you our free 10-question brand audit first. It takes ten minutes and shows you where the brand sits today.
+P.S. If a call feels premature, I've put together a short brand read on {{companyName}} — a few spots where what you're saying as a business may not match how the market reads you. Happy to send over the one-pager.
 
 ---
 
@@ -62,7 +62,7 @@ So we started with the positioning and built out from there. Two visual overhaul
 
 They're still with us. That's the part I'd point to, not the rebrand. Plenty of agencies can redraw a logo. Keeping a manufacturer relevant through thirteen years of a shifting market is the harder job.
 
-Want me to send you the brand audit so you can see where {{companyName}} sits?
+I've run a quick brand audit on {{companyName}} and spotted a couple of things worth a look. Want me to send it across?
 
 Bonita
 
@@ -80,9 +80,9 @@ One more thought — and it's the one most agencies won't bring up.
 
 You've probably had a dozen emails like mine this week, and most of them weren't written by a person. Brand work has gone the same way. It comes back fast and it looks tidy, but it sounds like everyone else in the category.
 
-We use AI too, for the research and the repetitive work. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
+We use AI too, for the research and the routine work. The thinking — the part that makes a brand feel uncluttered, intuitive, and genuinely yours — still comes from people who've walked a factory floor and asked the awkward questions. That's the part a machine can't carry.
 
-If that matters at {{companyName}}, I'm happy to send you the brand audit — or we can jump straight to a call if you'd prefer.
+If that matters at {{companyName}}, I'm happy to send over the one-pager from the brand audit I put together — or we can jump straight to a call if you'd prefer.
 
 Bonita
 
@@ -116,9 +116,9 @@ P.S. I won't keep following up. If it comes up later, you know where I am.
 
 | Email | CTA | Logic |
 |---|---|---|
-| E1 | Call + brand audit P.S. | Full offer — here's what we do, here's the ask |
-| E2 | Brand audit only | De-escalation — silence means lower the barrier |
-| E3 | Brand audit + call option | Re-escalation — the AI angle earns the right to offer both paths |
+| E1 | Call + personalized audit P.S. | Full offer — here's what we do, here's the ask; audit one-pager as soft entry |
+| E2 | Personalized audit on {{companyName}} | De-escalation — "I've already looked at your brand, want to see what I found?" |
+| E3 | One-pager + call option | Re-escalation — the AI angle earns the right to offer both paths |
 | E4 | Half hour + detached value + close | Final — named duration, value even if they say no, clean exit |
 
 ---
@@ -137,7 +137,7 @@ Continental Cables had grown well beyond raw cable into a full accessories range
 
 We rebuilt the positioning around the people doing the buying rather than the spec sheet. Same technical depth, told as a story about compliance, durability and trust.
 
-Want me to send you the brand audit so you can see where {{companyName}} sits?
+I've run a quick brand audit on {{companyName}} and spotted a couple of things worth a look. Want me to send it across?
 
 Bonita
 
@@ -187,7 +187,7 @@ Two visual overhauls since, a new website, and the brand work that carried them 
 
 Most of our clients arrive the same way. It's rarely a crisis. More a sense that the business has moved on and the brand hasn't quite kept up.
 
-Does any of that sound familiar at {{companyName}}?
+I've put together a short brand read on {{companyName}} — happy to send it across if any of that sounds familiar.
 
 Bonita
 
@@ -203,9 +203,9 @@ One more thought — and it's the one most agencies won't bring up.
 
 You've probably had a dozen messages like mine this week, and most of them weren't written by a person. Brand work has gone the same way. It comes back fast and it looks tidy, but it sounds like everyone else in the category.
 
-We use AI too, for the research and the repetitive work. The thinking still comes from people who've walked a factory floor and asked the awkward questions.
+We use AI too, for the research and the routine work. The thinking — the part that makes a brand feel uncluttered, intuitive, and genuinely yours — still comes from people who've walked a factory floor and asked the awkward questions. That's the part a machine can't carry.
 
-If that matters at {{companyName}}, I'm happy to send you the brand audit — or we can jump straight to a call if you'd prefer.
+If that matters at {{companyName}}, I'm happy to send over the one-pager from the brand audit I put together — or we can jump straight to a call if you'd prefer.
 
 Bonita
 
@@ -219,7 +219,7 @@ Last one from me, {{firstName}}.
 
 If the timing's wrong, that's genuinely fine and I won't keep nudging.
 
-If it isn't, there are two easy ways in. We have a free 10-question brand audit that shows where a business stands. It takes about ten minutes and I'll happily send it across. Or I'll give you half an hour and you can ask whatever you want.
+If it isn't, there are two easy ways in. I've put together a short brand audit on {{companyName}} — a one-pager that shows where you sit today. Or I'll give you half an hour and you can ask whatever you want.
 
 Either way, good to be connected.
 
@@ -232,9 +232,9 @@ Bonita
 | Message | CTA | Logic |
 |---|---|---|
 | LI1 | Open question | Invite the conversation — "What does the picture look like?" |
-| LI2 | Soft CTA | Lower barrier on LinkedIn — "Does any of that sound familiar?" |
-| LI3 | Brand audit + call option | The AI angle earns the right to offer both paths |
-| LI4 | Dual option + close | Brand audit or half hour — two clear paths, then done |
+| LI2 | Personalized audit offer | Lower barrier — "I've put together a brand read, happy to send it" |
+| LI3 | One-pager + call option | The AI angle earns the right to offer both paths |
+| LI4 | Personalized audit or half hour + close | Two clear paths (one-pager or call), then done |
 
 ---
 
@@ -250,7 +250,7 @@ Continental Cables had grown well beyond raw cable into a full accessories range
 
 We rebuilt the positioning around the people doing the buying rather than the spec sheet. Same technical depth, told as a story about compliance, durability and trust.
 
-Is {{companyName}} anywhere near a point like that?
+I've put together a short brand read on {{companyName}} — happy to send it across if any of that resonates.
 
 Bonita
 
